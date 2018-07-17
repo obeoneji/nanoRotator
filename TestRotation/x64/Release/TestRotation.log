@@ -1,0 +1,11 @@
+﻿  main.cpp
+  nanoRotator.cpp
+nanoRotator.cpp(122): warning C4800: 'short': forcing value to bool 'true' or 'false' (performance warning)
+nanoRotator.cpp(159): warning C4800: 'short': forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  3 of 23 functions (13.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TestRotation.vcxproj -> E:\Yu_Plex-VR\object_scanning\nanoRotator-master\nanoRotator-master\TestRotation\x64\Release\TestRotation.exe
+  TestRotation.vcxproj -> E:\Yu_Plex-VR\object_scanning\nanoRotator-master\nanoRotator-master\TestRotation\x64\Release\TestRotation.pdb (Full PDB)
